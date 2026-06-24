@@ -9,7 +9,7 @@
       "csr": {
         "webroot": "dist/spartacussamplestoreb2b/browser/"
       },
-      "enabledRepositories": ["spartacus-dev"]
+      "enabledRepositories": ["Tryzens_B2B_Spa_Sample_Store"]
     }
   ],
   "nodeVersion": "22"
