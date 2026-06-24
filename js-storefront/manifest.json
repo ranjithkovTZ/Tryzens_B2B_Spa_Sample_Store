@@ -1,0 +1,16 @@
+{
+  "applications": [
+    {
+      "name": "spartacussamplestoreb2b",
+      "path": "spartacussamplestoreb2b",
+      "ssr": {
+        "enabled": false
+      },
+      "csr": {
+        "webroot": "dist/spartacussamplestoreb2b/browser/"
+      },
+      "enabledRepositories": ["spartacus-dev"]
+    }
+  ],
+  "nodeVersion": "22"
+}
