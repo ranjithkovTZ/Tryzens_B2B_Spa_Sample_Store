@@ -21,7 +21,7 @@
         "persona": "production"
       },
       {
-        "location": "hybris/config/environments/common.properties"
+        "location": "hybris/config/environments/local-common.properties"
       }
     ],
     "extensions": {
