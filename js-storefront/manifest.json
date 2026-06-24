@@ -4,12 +4,13 @@
       "name": "spartacussamplestoreb2b",
       "path": "spartacussamplestoreb2b",
       "ssr": {
-        "enabled": false
+        "enabled": false,
+		"path": "dist/spartacussamplestoreb2b/server/server.mjs"
       },
       "csr": {
         "webroot": "dist/spartacussamplestoreb2b/browser/"
       },
-      "enabledRepositories": ["Tryzens_B2B_Spa_Sample_Store"]
+      "enabledRepositories": ["spartacus-dev"]
     }
   ],
   "nodeVersion": "22"
