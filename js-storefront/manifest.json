@@ -10,7 +10,7 @@
       "csr": {
         "webroot": "dist/spartacussamplestoreb2b/browser/"
       },
-      "enabledRepositories": ["spartacus-dev"]
+      "enabledRepositories": ["spartacus-6"]
     }
   ],
   "nodeVersion": "22"
